@@ -1,12 +1,13 @@
-  		Baralho
+  		                 Baralho
         _________________________________________
         Copyright (C) 2012 Robson André Domanski
 
 1) Passos usados para o desenvolvimento do instalador
-\n2) Retratação
+
+2) Retratação
 
 
-1 Introdução__________________________________________________
+1 Passos__________________________________________________
 
 Para a criação de um instalador é necessário o CMake(cmake-gui),
 logo após a sua instalação deve ser configurado o caminho onde
