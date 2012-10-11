@@ -3,7 +3,7 @@
         Copyright (C) 2012 Robson André Domanski
 
 1) Passos usados para o desenvolvimento do instalador
-2) Retratação
+\n2) Retratação
 
 
 1 Introdução__________________________________________________
